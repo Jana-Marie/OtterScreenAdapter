@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 47272-0001)(type Legacy)(uri ${KIPRJMOD}/47272-0001/47272-0001.lib)(options "")(descr ""))
+  (lib (name OtterScreen-rescue)(type Legacy)(uri ${KIPRJMOD}/OtterScreen-rescue.lib)(options "")(descr ""))
+)
