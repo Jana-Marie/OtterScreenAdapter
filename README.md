@@ -4,6 +4,6 @@ It turns out that modern screens/panels like the LP097QX1-SPA1 from LG have a eD
 
 ![](/front.png)
 
-# In a not 100% working condition! (will fix soon :3)
+# The PCB is in a not 100% working condition! (will fix soon :3)
 
 Video: https://twitter.com/JanHenrikH/status/1160707174835863553
