@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name 47272-0001)(type Legacy)(uri ${KIPRJMOD}/47272-0001/47272-0001.lib)(options "")(descr ""))
   (lib (name OtterScreen-rescue)(type Legacy)(uri ${KIPRJMOD}/OtterScreen-rescue.lib)(options "")(descr ""))
+  (lib (name pro_box_front_sbc-cache)(type Legacy)(uri /home/janhenrik/go-elinux/pro/go-otter-sbc-hw/pro_box_front_sbc-cache.lib)(options "")(descr ""))
 )
