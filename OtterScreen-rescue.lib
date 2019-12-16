@@ -112,4 +112,23 @@ X AUX_P 9 600 550 300 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# pro_box_front_sbc-rescue_TPS61160A-pro_box_front_sbc-cache
+#
+DEF pro_box_front_sbc-rescue_TPS61160A-pro_box_front_sbc-cache U 0 40 Y Y 1 F N
+F0 "U" 0 150 50 H V C CNN
+F1 "pro_box_front_sbc-rescue_TPS61160A-pro_box_front_sbc-cache" 0 250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 100 250 -300 0 1 0 f
+X FB 1 350 -100 100 L 50 50 1 1 I
+X COMP 2 -350 -250 100 R 50 50 1 1 I
+X GND 3 350 -250 100 L 50 50 1 1 I
+X SW 4 350 50 100 L 50 50 1 1 I
+X CTRL 5 -350 -100 100 R 50 50 1 1 I
+X VIN 6 -350 50 100 R 50 50 1 1 I
+X TP 7 350 -250 100 L 50 50 1 1 I N
+ENDDRAW
+ENDDEF
+#
 #End Library
