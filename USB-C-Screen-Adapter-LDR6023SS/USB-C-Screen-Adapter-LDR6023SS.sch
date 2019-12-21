@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:USB-C-Screen-Adapter-LDR6023SS-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -978,7 +979,7 @@ Text GLabel 5050 6850 0    50   Input ~ 0
 CC1
 Text GLabel 5050 6750 0    50   Input ~ 0
 CC2
-Text GLabel 8200 5600 0    50   Input ~ 0
+Text GLabel 8800 5700 2    50   Input ~ 0
 USB_N
 Text GLabel 8450 5050 0    50   Input ~ 0
 USB_P
@@ -993,7 +994,7 @@ F 3 "~" H 8650 4950 50  0001 C CNN
 	1    8650 4950
 	1    0    0    -1  
 $EndComp
-Text GLabel 8800 5700 2    50   Input ~ 0
+Text GLabel 8200 5600 0    50   Input ~ 0
 USB_P
 Text GLabel 8450 4950 0    50   Input ~ 0
 USB_N
@@ -1172,9 +1173,9 @@ Text GLabel 9650 1350 3    50   Input ~ 0
 LEDC2DIM
 Text GLabel 9650 2650 3    50   Input ~ 0
 LEDC1DIM
-Text GLabel 8700 3350 2    50   Input ~ 0
-LEDC1DIM
 Text GLabel 8700 3750 2    50   Input ~ 0
+LEDC1DIM
+Text GLabel 8700 3350 2    50   Input ~ 0
 LEDC2DIM
 $Comp
 L Device:R_Small R1
