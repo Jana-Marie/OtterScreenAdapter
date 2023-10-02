@@ -4,5 +4,3 @@ It turns out that modern screens/panels like the LP097QX1-SPA1 from LG have a eD
 
 ![](images/1.jpg)
 ![](images/2.jpg)
-
-Video: https://twitter.com/JanHenrikH/status/1160707174835863553
